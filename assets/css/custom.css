@@ -1,0 +1,45 @@
+.main-header{
+    background-color: #1b1b2f;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.btn-color{
+    background-color: #4d4c7d;
+}
+
+.footer{
+    background-color: #1b1b2f;
+}
+
+.edite{
+    background-color: rgba(0, 0, 0, 0.26);;
+}
+.desc{
+    background-color: #4d4c7d;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
+   /* padding: 5px; */
+   /* margin: auto 30px; */
+   
+
+
+}
+
+.boxes{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.sub-banner{
+    background-color: #4d4c7d;
+    background-image: url(../images/living-room-1644443_1920.jpg);
+    height: 400px;
+    opacity: .6;
+}
+
+.spans{
+    font-size: 10px;
+    }
